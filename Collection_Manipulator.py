@@ -1,6 +1,6 @@
 '''
 
-PR.3 Collection Manipulator
+PR.3 Collection Manipulator.
 
 Create a python program called Student Data Organizer that manages a collection of student
 records. This project will apply intermediate-level concepts such as string formatting and
